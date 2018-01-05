@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C7747DB62000075A005CD2C8"
-               BuildableName = "testCI.app"
-               BlueprintName = "testCI"
+               BlueprintIdentifier = "C7747DDE2000091F005CD2C8"
+               BuildableName = "SDK.framework"
+               BlueprintName = "SDK"
                ReferencedContainer = "container:testCI.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -30,36 +30,7 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       codeCoverageEnabled = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C7747DCA2000075A005CD2C8"
-               BuildableName = "testCITests.xctest"
-               BlueprintName = "testCITests"
-               ReferencedContainer = "container:testCI.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C7747DE62000091F005CD2C8"
-               BuildableName = "SDKTests.xctest"
-               BlueprintName = "SDKTests"
-               ReferencedContainer = "container:testCI.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C7747DB62000075A005CD2C8"
-            BuildableName = "testCI.app"
-            BlueprintName = "testCI"
-            ReferencedContainer = "container:testCI.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -74,16 +45,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C7747DB62000075A005CD2C8"
-            BuildableName = "testCI.app"
-            BlueprintName = "testCI"
+            BlueprintIdentifier = "C7747DDE2000091F005CD2C8"
+            BuildableName = "SDK.framework"
+            BlueprintName = "SDK"
             ReferencedContainer = "container:testCI.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -93,16 +63,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C7747DB62000075A005CD2C8"
-            BuildableName = "testCI.app"
-            BlueprintName = "testCI"
+            BlueprintIdentifier = "C7747DDE2000091F005CD2C8"
+            BuildableName = "SDK.framework"
+            BlueprintName = "SDK"
             ReferencedContainer = "container:testCI.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
